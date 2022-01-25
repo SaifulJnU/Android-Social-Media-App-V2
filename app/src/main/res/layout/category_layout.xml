@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:background="@drawable/search_back"
+    >
+
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sort By"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:padding="4dp"></TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Oldest"
+        android:textColor="@color/black"
+        android:textSize="15sp"
+        android:padding="7dp"
+        android:fontFamily="sans-serif-light"
+        android:id="@+id/tvOld"
+
+        ></TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tech"
+        android:textColor="@color/black"
+        android:textSize="15sp"
+        android:padding="7dp"
+        android:fontFamily="sans-serif-light"
+        android:id="@+id/tvTech"
+
+        ></TextView>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Health"
+        android:textColor="@color/black"
+        android:textSize="15sp"
+        android:padding="7dp"
+        android:fontFamily="sans-serif-light"
+        android:id="@+id/tvhealth"
+
+        ></TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Education"
+        android:textColor="@color/black"
+        android:textSize="15sp"
+        android:padding="7dp"
+        android:fontFamily="sans-serif-light"
+        android:id="@+id/tveducation"
+
+        ></TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Food"
+        android:textColor="@color/black"
+        android:textSize="15sp"
+        android:padding="7dp"
+        android:fontFamily="sans-serif-light"
+        android:id="@+id/tvfood"
+
+        ></TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sports"
+        android:textColor="@color/black"
+        android:textSize="15sp"
+        android:padding="7dp"
+        android:fontFamily="sans-serif-light"
+        android:id="@+id/tvsports"
+
+        ></TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="News"
+        android:textColor="@color/black"
+        android:textSize="15sp"
+        android:padding="7dp"
+        android:fontFamily="sans-serif-light"
+        android:id="@+id/tvnews"
+
+        ></TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Fashion"
+        android:textColor="@color/black"
+        android:textSize="15sp"
+        android:padding="7dp"
+        android:fontFamily="sans-serif-light"
+        android:id="@+id/tvfashion"
+
+        ></TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Beauty"
+        android:textColor="@color/black"
+        android:textSize="15sp"
+        android:padding="7dp"
+        android:fontFamily="sans-serif-light"
+        android:id="@+id/tvbeauty"
+
+        ></TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Lifestyle"
+        android:textColor="@color/black"
+        android:textSize="15sp"
+        android:padding="7dp"
+        android:fontFamily="sans-serif-light"
+        android:id="@+id/tvlifestyle"
+
+        ></TextView>
+
+
+</LinearLayout>
